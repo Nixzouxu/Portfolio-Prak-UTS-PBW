@@ -120,8 +120,8 @@ const VIDEOS = [
     color: '#00FFE7',
   },
   {
-    title: 'If There Is A God — Wumian Edit',
-    desc:  'Cinematic Wumian edit — 1080p HD',
+    title: 'Wumian',
+    desc:  'Cinematic edit — 1080p HD',
     src:   '/videos/wumian.mp4',
     tags:  ['After Effect', 'Live2d', 'Cinema4d'],
     color: '#A855F7',
