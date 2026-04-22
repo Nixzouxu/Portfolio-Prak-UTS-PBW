@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import Projects3Tab from './components/Projects3Tab';   
+import Projects3tab from './components/Projects3tab';   
 import Navbar from './components/Navbar'
 import Hero from './components/Hero'
 import Skills from './components/Skills'
@@ -30,7 +30,7 @@ function App() {
       <Hero />
       <RPGAbout />
       <Skills />
-      <Projects3Tab />
+      <Projects3tab />
       <Contact />
       <Footer />
     </div>
