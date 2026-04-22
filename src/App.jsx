@@ -11,7 +11,7 @@ import Particlebackground from './components/Particlebackground'
 import Customcursor       from './components/Customcursor'
 import Terminalintro      from './components/Terminalintro'
 import Easteregg          from './components/Easteregg'
-import RPGAbout from './components/RPGAbout'             
+import Rpgabout from './components/Rpgabout'             
 import MusicPlayer from './components/MusicPlayer'
 
 function App() {
@@ -28,7 +28,7 @@ function App() {
       <div className="scan-line" />
       <Navbar />
       <Hero />
-      <RPGAbout />
+      <Rpgabout />
       <Skills />
       <Projects3tab />
       <Contact />
